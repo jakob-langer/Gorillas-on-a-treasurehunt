@@ -1,7 +1,6 @@
 # Pirate code
 
-I.    The Captain and Quartermaster to receive two shares of a prize, the First-mate to
-      receive one share of a prize.
+I.    The Captain and Quartermaster and the First-mate will all get an equal share of a prize,
 
 II.   Every man has equal title to the fresh provisions, or strong liquors, and may use
       them at pleasure, unless a scarcity makes it necessary, for the good of all, to vote
@@ -41,6 +40,6 @@ get your fair share of the prize!
 
 Captain      : Jakob
 Quartermaster: Deepti Varshney
-First mate   : NAME_HERE
+First mate   : Yann Tinguely
 
 
