@@ -34,7 +34,7 @@ XI.   Any man deserting the ship in battle or rewriting history on the project's
       shot.
 
 
-To sign the pirate code, replace "Deepti Varshney" with your name on the line matching your
+To sign the pirate code, replace "NAME_HERE" with your name on the line matching your
 rank in your pirate team. IMPORTANT: only sign for yourself, not for others.
 Note to the First mate: make sure you revise article I of the pirate code above, so you
 get your fair share of the prize!
